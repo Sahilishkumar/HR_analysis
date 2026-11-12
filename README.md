@@ -1,10 +1,10 @@
 # HR Analytics Dashboard — Power BI, SQL Server & Excel
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Analysis-CC2927?logo=microsoftsqlserver\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoftexcel\&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Analysis-5B2C83)
-![HR Analytics](https://img.shields.io/badge/HR%20Analytics-People%20Insights-2E7D32)
+![Power BI]
+![SQL Server]
+![Excel]
+![DAX]
+![HR Analytics]
 
 ## Project Overview
 
@@ -293,10 +293,3 @@ The project showcases the ability to:
 
 This project demonstrates practical skills in **Excel, SQL Server, Power BI, DAX, data cleaning, HR analytics, and business intelligence**.
 
----
-
-# Author
-
-**Abdisalaam Hassan Ahmed**
-
-**Data Analytics | SQL | Power BI | Excel**
