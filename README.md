@@ -1,10 +1,3 @@
-# HR Analytics Dashboard — Power BI, SQL Server & Excel
-
-![Power BI]
-![SQL Server]
-![Excel]
-![DAX]
-![HR Analytics]
 
 ## Project Overview
 
@@ -220,15 +213,15 @@ Screenshots/
 
 ### Page 1 — HR Analytics Dashboard
 
-![Page 1](Screenshots/page1-hr-analytics.png)
+![Page 1](report1.png)
 
 ### Page 2 — Employee Details
 
-![Page 2](Screenshots/page2-employee-details.png)
+![Page 2](report2.png)
 
 ---
 
-# Repository Structure
+<!-- # Repository Structure
 
 ```text
 hr-analytics-powerbi/
@@ -249,7 +242,7 @@ hr-analytics-powerbi/
     └── page2-employee-details.png
 ```
 
----
+--- -->
 
 # How to Explore the Project
 
@@ -270,26 +263,4 @@ The original dataset was reviewed and cleaned in Excel before analysis. Duplicat
 3. Navigate to Page 2 for employee-level details.
 4. Use the department, status, and gender filters to explore employee segments.
 5. Compare KPI cards with the charts to identify workforce patterns and HR trends.
-
----
-
-# Portfolio Value
-
-This project demonstrates an end-to-end data analytics workflow:
-
-**Excel → SQL Server → Power BI**
-
-The project showcases the ability to:
-
-* Clean and prepare raw employee data
-* Remove duplicate records
-* Perform data quality checks
-* Analyze workforce data using SQL
-* Create HR-focused KPIs
-* Develop DAX measures
-* Build interactive Power BI dashboards
-* Extract business insights from employee data
-* Present analytical findings through data visualization
-
-This project demonstrates practical skills in **Excel, SQL Server, Power BI, DAX, data cleaning, HR analytics, and business intelligence**.
 
