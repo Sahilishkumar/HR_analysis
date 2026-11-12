@@ -91,7 +91,7 @@ The cleaned and analyzed HR data was used to create an interactive **Power BI HR
 
 ## Dashboard Pages
 
-### Page 1 — HR Analytics Dashboard
+### Page 1, HR Analytics Dashboard
 
 **Purpose:** Executive-level overview of workforce structure and HR performance.
 
@@ -111,7 +111,7 @@ Key elements:
 * Employees by Department
 * Interactive Department filter
 
-### Page 2 — Employee Details
+### Page 2, Employee Details
 
 **Purpose:** Detailed employee-level view for exploring individual workforce records.
 
@@ -201,13 +201,6 @@ Based on the cleaned dataset and Power BI dashboard:
 
 ---
 
-# Dashboard Screenshots
-
-```text
-Screenshots/
-├── page1-hr-analytics.png
-└── page2-employee-details.png
-```
 
 ## Dashboard Preview
 
@@ -219,30 +212,7 @@ Screenshots/
 
 ![Page 2](report2.png)
 
----
 
-<!-- # Repository Structure
-
-```text
-hr-analytics-powerbi/
-│
-├── README.md
-│
-├── SQL/
-│   └── HR_Analysis.sql
-│
-├── PowerBI/
-│   └── HR_Analytics_Dashboard.pbix
-│
-├── Dataset/
-│   └── hr_data.csv
-│
-└── Screenshots/
-    ├── page1-hr-analytics.png
-    └── page2-employee-details.png
-```
-
---- -->
 
 # How to Explore the Project
 
